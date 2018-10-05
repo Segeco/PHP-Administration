@@ -210,7 +210,7 @@
                             </div>
                             <div class="modal-body" id='serverchatmodal-body'>
                                 <div id="server-chat-response"></div>
-                                <div id="serverchat-reload" name='serverchat-reload'>
+                                <div id="serverchat-reload" name='serverchat-reload-modal'>
                                     
                                 </div>
                             </div>
